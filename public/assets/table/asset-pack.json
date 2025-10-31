@@ -1,0 +1,44 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/table/poker_table_ vertical.png",
+                "type": "image",
+                "key": "poker_table_ vertical"
+            },
+            {
+                "url": "assets/table/poker_table_frankenstein.png",
+                "type": "image",
+                "key": "poker_table_frankenstein"
+            },
+            {
+                "url": "assets/table/poker_table_horizontal.png",
+                "type": "image",
+                "key": "poker_table_horizontal"
+            },
+            {
+                "url": "assets/table/poker_table1_frankenstein.png",
+                "type": "image",
+                "key": "poker_table1_frankenstein"
+            },
+            {
+                "url": "assets/table/poker_table3_frankenstein.png",
+                "type": "image",
+                "key": "poker_table3_frankenstein"
+            },
+            {
+                "url": "assets/table/poker_table4_frankenstein.png",
+                "type": "image",
+                "key": "poker_table4_frankenstein"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}

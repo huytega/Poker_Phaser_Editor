@@ -1,0 +1,554 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/cards/10_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "10_of_clubs"
+            },
+            {
+                "url": "assets/cards/10_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "10_of_diamonds"
+            },
+            {
+                "url": "assets/cards/10_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "10_of_hearts"
+            },
+            {
+                "url": "assets/cards/10_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "10_of_spades"
+            },
+            {
+                "url": "assets/cards/2_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "2_of_clubs"
+            },
+            {
+                "url": "assets/cards/2_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "2_of_diamonds"
+            },
+            {
+                "url": "assets/cards/2_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "2_of_hearts"
+            },
+            {
+                "url": "assets/cards/2_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "2_of_spades"
+            },
+            {
+                "url": "assets/cards/3_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "3_of_clubs"
+            },
+            {
+                "url": "assets/cards/3_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "3_of_diamonds"
+            },
+            {
+                "url": "assets/cards/3_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "3_of_hearts"
+            },
+            {
+                "url": "assets/cards/3_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "3_of_spades"
+            },
+            {
+                "url": "assets/cards/4_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "4_of_clubs"
+            },
+            {
+                "url": "assets/cards/4_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "4_of_diamonds"
+            },
+            {
+                "url": "assets/cards/4_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "4_of_hearts"
+            },
+            {
+                "url": "assets/cards/4_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "4_of_spades"
+            },
+            {
+                "url": "assets/cards/5_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "5_of_clubs"
+            },
+            {
+                "url": "assets/cards/5_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "5_of_diamonds"
+            },
+            {
+                "url": "assets/cards/5_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "5_of_hearts"
+            },
+            {
+                "url": "assets/cards/5_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "5_of_spades"
+            },
+            {
+                "url": "assets/cards/6_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "6_of_clubs"
+            },
+            {
+                "url": "assets/cards/6_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "6_of_diamonds"
+            },
+            {
+                "url": "assets/cards/6_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "6_of_hearts"
+            },
+            {
+                "url": "assets/cards/6_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "6_of_spades"
+            },
+            {
+                "url": "assets/cards/7_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "7_of_clubs"
+            },
+            {
+                "url": "assets/cards/7_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "7_of_diamonds"
+            },
+            {
+                "url": "assets/cards/7_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "7_of_hearts"
+            },
+            {
+                "url": "assets/cards/7_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "7_of_spades"
+            },
+            {
+                "url": "assets/cards/8_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "8_of_clubs"
+            },
+            {
+                "url": "assets/cards/8_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "8_of_diamonds"
+            },
+            {
+                "url": "assets/cards/8_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "8_of_hearts"
+            },
+            {
+                "url": "assets/cards/8_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "8_of_spades"
+            },
+            {
+                "url": "assets/cards/9_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "9_of_clubs"
+            },
+            {
+                "url": "assets/cards/9_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "9_of_diamonds"
+            },
+            {
+                "url": "assets/cards/9_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "9_of_hearts"
+            },
+            {
+                "url": "assets/cards/9_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "9_of_spades"
+            },
+            {
+                "url": "assets/cards/ace_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "ace_of_clubs"
+            },
+            {
+                "url": "assets/cards/ace_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "ace_of_diamonds"
+            },
+            {
+                "url": "assets/cards/ace_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "ace_of_hearts"
+            },
+            {
+                "url": "assets/cards/ace_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "ace_of_spades"
+            },
+            {
+                "url": "assets/cards/black_joker.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "black_joker"
+            },
+            {
+                "url": "assets/cards/jack_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "jack_of_clubs"
+            },
+            {
+                "url": "assets/cards/jack_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "jack_of_diamonds"
+            },
+            {
+                "url": "assets/cards/jack_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "jack_of_hearts"
+            },
+            {
+                "url": "assets/cards/jack_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "jack_of_spades"
+            },
+            {
+                "url": "assets/cards/king_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "king_of_clubs"
+            },
+            {
+                "url": "assets/cards/king_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "king_of_diamonds"
+            },
+            {
+                "url": "assets/cards/king_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "king_of_hearts"
+            },
+            {
+                "url": "assets/cards/king_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "king_of_spades"
+            },
+            {
+                "url": "assets/cards/queen_of_clubs.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "queen_of_clubs"
+            },
+            {
+                "url": "assets/cards/queen_of_diamonds.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "queen_of_diamonds"
+            },
+            {
+                "url": "assets/cards/queen_of_hearts.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "queen_of_hearts"
+            },
+            {
+                "url": "assets/cards/queen_of_spades.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "queen_of_spades"
+            },
+            {
+                "url": "assets/cards/red_joker.svg",
+                "svgConfig": {
+                    "width": 0,
+                    "height": 0,
+                    "scale": 0
+                },
+                "type": "svg",
+                "key": "red_joker"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}

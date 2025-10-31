@@ -1,0 +1,104 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/back-cards/back.png",
+                "type": "image",
+                "key": "back"
+            },
+            {
+                "url": "assets/back-cards/back-0062ff.png",
+                "type": "image",
+                "key": "back-0062ff"
+            },
+            {
+                "url": "assets/back-cards/back-aqua.png",
+                "type": "image",
+                "key": "back-aqua"
+            },
+            {
+                "url": "assets/back-cards/back-black.png",
+                "type": "image",
+                "key": "back-black"
+            },
+            {
+                "url": "assets/back-cards/back-blue.png",
+                "type": "image",
+                "key": "back-blue"
+            },
+            {
+                "url": "assets/back-cards/back-fuchsia.png",
+                "type": "image",
+                "key": "back-fuchsia"
+            },
+            {
+                "url": "assets/back-cards/back-gray.png",
+                "type": "image",
+                "key": "back-gray"
+            },
+            {
+                "url": "assets/back-cards/back-green.png",
+                "type": "image",
+                "key": "back-green"
+            },
+            {
+                "url": "assets/back-cards/back-lime.png",
+                "type": "image",
+                "key": "back-lime"
+            },
+            {
+                "url": "assets/back-cards/back-maroon.png",
+                "type": "image",
+                "key": "back-maroon"
+            },
+            {
+                "url": "assets/back-cards/back-navy.png",
+                "type": "image",
+                "key": "back-navy"
+            },
+            {
+                "url": "assets/back-cards/back-olive.png",
+                "type": "image",
+                "key": "back-olive"
+            },
+            {
+                "url": "assets/back-cards/back-purple.png",
+                "type": "image",
+                "key": "back-purple"
+            },
+            {
+                "url": "assets/back-cards/back-red.png",
+                "type": "image",
+                "key": "back-red"
+            },
+            {
+                "url": "assets/back-cards/back-silver.png",
+                "type": "image",
+                "key": "back-silver"
+            },
+            {
+                "url": "assets/back-cards/back-teal.png",
+                "type": "image",
+                "key": "back-teal"
+            },
+            {
+                "url": "assets/back-cards/back-yellow.png",
+                "type": "image",
+                "key": "back-yellow"
+            },
+            {
+                "url": "assets/back-cards/deck.webp",
+                "type": "image",
+                "key": "deck"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}
